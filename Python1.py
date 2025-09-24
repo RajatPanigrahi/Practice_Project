@@ -17,5 +17,7 @@ elif check==4:
     print("Multiplication is: ",a*b*c)
 else:
     print("Invalid choice")
+
+print("RItam")
     
     
